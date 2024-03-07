@@ -1,0 +1,6 @@
+name: hifiasm
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - hifiasm
