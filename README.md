@@ -1,3 +1,5 @@
+[![Build a Docker image](https://github.com/adeslatt/hifiasm-docker/actions/workflows/docker-image.yml/badge.svg)](https://github.com/adeslatt/hifiasm-docker/actions/workflows/docker-image.yml)[![Build and push a Docker image](https://github.com/adeslatt/hifiasm-docker/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/adeslatt/hifiasm-docker/actions/workflows/docker-publish.yml)
+
 # hifiasm-docker
 
 [hifiasm](https://github.com/chhylp123/hifiasm) is a fast haplotype-resolved de novo assembler initially designed for PacBio HiFi reads. hifiasm-docker provides Docker files and GitHub Action workflows for building and publishing a Docker image so that hifiasm can be used in the [sync-seq](https://github.com/adeslatt/sync-seq) workflow.
